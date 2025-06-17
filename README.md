@@ -5,6 +5,10 @@
 Este proyecto es una arquitectura de microservicios desarrollada en Java con Spring Boot, que gestiona la relación entre conductores y coches.
 Incluye tres microservicios independientes (drivers, cars y un orquestador) y un API Gateway que centraliza todas las peticiones del cliente.
 
+<img width="862" alt="Captura de Pantalla 2025-06-17 a las 11 01 16" src="https://github.com/user-attachments/assets/7978ac54-3c70-4897-abc9-db3ad45edb34" />
+
+
+
 ## 🧩 Microservicios
 
 - **Car Service**: gestiona la información de los coches.
